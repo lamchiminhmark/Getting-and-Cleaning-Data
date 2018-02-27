@@ -9,7 +9,7 @@ Note: Many variables are not renamed so as to maintain the technical precision. 
 Minh Lam
 02/26/2018
 
-# The process (as documented in the code):
+## The process (as documented in the code):
 Downloads and unzips the zip file. 
 Store activity labels into a data.frame.
 
