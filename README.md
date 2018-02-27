@@ -1,9 +1,9 @@
 # Getting-and-Cleaning-Data
 Final project for Getting and Cleaning Data
 
-Rscript that downloads raw data and tidy it up to extract the mean and standard deviations of the 
-variables. Labels are also added to give meaning to the variable.  The 2 relevant datasets are result1 
-and result2. 
+Rscript that downloads raw data and tidy it up to extract the mean and standard deviations of the  
+variables. Labels are also added to give meaning to the variable.  The 2 relevant datasets are result1  
+and result2.  
 Note: Many variables are not renamed so as to maintain the technical precision. A description of the variables are recorded in the code book.
 
 Minh Lam
